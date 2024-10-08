@@ -1,7 +1,8 @@
 <!-- Header section with a custom banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="VibzzVibes Banner" />
+  <img src="https://i.imgur.com/abc456.png" alt="Data Science Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hey, I'm Vibhav Kaushik! 👋</h1>
 
@@ -69,5 +70,11 @@ As a data science enthusiast, I'm fascinated by how data-driven decisions can tr
 ### 📫 Connect with Me
 
 <p align="center">
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vibhavkaushik200207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
  
 
