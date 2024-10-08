@@ -76,5 +76,12 @@ As a data science enthusiast, I'm fascinated by how data-driven decisions can tr
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vibhavkaushik200207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
- 
+
+ ## Additional Information
+- Fluent in English (written and spoken)
+- Available for internships, entry-level positions, or freelance projects
+- Open to learning new technologies and methodologies
+- Passionate about contributing to open-source projects and community initiatives
+
+Thank you for visiting my GitHub repository! I'm excited to embark on this journey and contribute to the world of technology. Let's connect and build something amazing together! 🚀
 
