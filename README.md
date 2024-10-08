@@ -33,7 +33,7 @@
 
 ### 🔥 Projects & Dashboards
 
-#### **📊 [Sales Performance Dashboard](https://your-tableau-public-link)**  
+#### **📊 [Sales Performance Dashboard]([https://your-tableau-public-link](https://public.tableau.com/app/profile/vibhav.kaushik/viz/Practicecharts_17220849147070/Cascadingfilter))**  
 Created an interactive dashboard to track and analyze key sales KPIs, helping businesses optimize performance.
 
 <p align="center">
