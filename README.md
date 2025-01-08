@@ -51,7 +51,7 @@ Visualized customer clusters based on purchasing behavior to identify and target
     <img src="https://your-image-url.com/customer-segmentation-dashboard.png" alt="Customer Segmentation Dashboard" width="600" />
   </a>
 </p>
-#### 📊 [Analysis of Regional Road Fuel Sales](https://github.com/VibhavKaushik07/Fuel-Sales-Analysis)  
+#### 📊 [Analysis of Regional Road Fuel Sales](https://github.com/VibhavKaushik07/Analysis-of-Regional-Average-road-fuel-sales-deliveries-and-stock-level-at-fuel-station)  
 - **Tools Used**: Python, Pandas, Matplotlib  
 - **Highlights**: Identified trends in fuel sales and deliveries, developed visual insights for better inventory management.  
 
