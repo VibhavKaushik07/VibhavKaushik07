@@ -7,7 +7,7 @@
 <h1 align="center">Hey, I'm Vibhav Kaushik! 👋</h1>
 
 <p align="center">
-   🎓 Data Science Student | 💻 Python Developer | 📊 Data Enthusiast|🎮 Gamer
+   🎓 Data Science Student | 💻 Python Developer | 📊 Data Enthusiast| 🤖AI Automation builder
 </p>
 
 ---
