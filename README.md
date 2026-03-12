@@ -35,6 +35,18 @@
 
 ### 🔥 Projects & Dashboards
 
+#### 📊 Commit AI | Python & OpenAI API
+- **Tools Used**: Python, OpenAI API, subprocess, git 
+- **Highlights**: •	Engineered a Python CLI tool that automatically generates descriptive Git commit messages from staged diffs using subprocess and the ChatGPT API — demonstrating systems-level Python development and API integration directly aligned with Red Hat's engineering culture.
+
+#### 📊 LLM Email Summarisation Agent 
+- **Tools Used**: Make.com & Gemini API
+- **Highlights**:•	Built an automated pipeline that processes the previous 24 hours of emails and delivers a daily digest at 8:00 AM — demonstrating end-to-end workflow automation with LLM parameter tuning (temperature, top-p, max tokens).
+
+ #### 📊 AI-Driven Study Mode Platform 
+- **Tools Used**:Python, JavaScript, Supabase
+- **Highlights**:•	•	Developing a full-stack educational platform featuring a JavaScript-powered frontend, Python backend, and Supabase database — implementing role-based document management (student/teacher views) and AI-powered study assistance.
+
 #### **📊 [Sales Performance Dashboard](https://public.tableau.com/app/profile/vibhav.kaushik/viz/Practicecharts_17220849147070/Cascadingfilter)**  
 Created an interactive dashboard to track and analyze key sales KPIs, helping businesses optimize performance.
 
