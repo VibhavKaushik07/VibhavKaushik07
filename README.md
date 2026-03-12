@@ -7,7 +7,7 @@
 <h1 align="center">Hey, I'm Vibhav Kaushik! 👋</h1>
 
 <p align="center">
-  🎮 Gamer | 🎓 Data Science Student | 💻 Python Developer | 📊 Data Enthusiast
+   🎓 Data Science Student | 💻 Python Developer | 📊 Data Enthusiast|🎮 Gamer
 </p>
 
 ---
@@ -17,6 +17,7 @@
 - 🎓 Master’s in **Data Science** at University of Birmingham.
 - 📊 Passionate about building interactive dashboards and uncovering insights from data.
 - 🌱 Currently learning **data structures in Python** and applying them to real-world problems.
+- 🤖 Building AI Automations and AI agents to ease up my repitative tasks.
 - 🎮 Creator at [VibzzVibes](https://youtube.com/c/vibzzvibes), where I share gaming content!
 
 ---
